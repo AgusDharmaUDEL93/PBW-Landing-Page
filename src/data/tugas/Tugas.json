@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tugas 1",
+    "summary": "Menyusun ringkasan dalam bentuk makalah tentang topik - topik utama pada pemrograman web",
+    "path": "/tugas1"
+  },
+  {
+    "title": "Tugas 2",
+    "summary": "Membuat halaman index dengan HTML",
+    "path": "/tugas2"
+  },
+  {
+    "title": "Tugas 3",
+    "summary": "Membuat halaman index dengan HTML, CSS dan Java Script",
+    "path": "/tugas3"
+  },
+  {
+    "title": "Tugas 4",
+    "summary": "Membuat Website dengan Beberapa Halaman",
+    "path": "/tugas4"
+  },
+  {
+    "title": "UTS",
+    "summary": "Membuat Aplikasi Website Sederhana",
+    "path": "/uts"
+  },
+  {
+    "title": "Tugas 5",
+    "summary": "Membuat Form pada Website",
+    "path": "/tugas5"
+  },
+  {
+    "title": "Tugas 6",
+    "summary": "Membuat Login dan Register",
+    "path": "/tugas6"
+  },
+  {
+    "title": "Tugas 7",
+    "summary": "Artikel Ilmiah (5 - 10 Halaman)",
+    "path": "tugas7"
+  },
+  {
+    "title": "Tugas 8",
+    "summary": "Aplikasi Website dengan Basis Data",
+    "path": "/tugas8"
+  },
+  {
+    "title": "UAS",
+    "summary": "Aplikasi, Laporan, Artikel Ilmiah dan Video PresentasiAssignment",
+    "path": "/uas"
+  }
+]
